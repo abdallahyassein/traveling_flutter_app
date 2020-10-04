@@ -6,6 +6,6 @@ Travelling Services App
 
 ## Getting Started
 
-![alt text](https://github.com/abdallahyassein/traveling_flutter_app/master/Snapshot.png.jpg?raw=true)
+![alt text](https://github.com/abdallahyassein/traveling_flutter_app/Snapshot.png.jpg?raw=true)
 
 

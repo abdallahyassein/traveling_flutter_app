@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "930535425428",
+    "firebase_url": "https://driver-sender.firebaseio.com",
+    "project_id": "driver-sender",
+    "storage_bucket": "driver-sender.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930535425428:android:60ad65e45e4162e604bb81",
+        "android_client_info": {
+          "package_name": "com.glowstudio.senddriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930535425428-mopuei12rhntgg07lu767nl7ctleq323.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvNdWF8BvDQ_9AsYtHrw2MAYGTJKMyW4A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930535425428-mopuei12rhntgg07lu767nl7ctleq323.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
